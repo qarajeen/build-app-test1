@@ -1,0 +1,5 @@
+{
+  "name": "Website Image Quality Grader",
+  "description": "An AI-powered tool that analyzes the images on a web page to provide a quality and performance score, identifying potential issues and suggesting improvements.",
+  "requestFramePermissions": []
+}
